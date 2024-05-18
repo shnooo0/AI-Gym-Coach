@@ -29,7 +29,5 @@ The combination of CNN and PoseNet allows for accurate detection of poses and cl
 
 1. Clone the repository:
 Clone the repository:
-   ```bash
-[   https://github.com/shnooo0/AI-Gym-Coatch.git
-](https://github.com/shnooo0/AI-Gym-Coach)
-
+  ```bash
+   https://github.com/shnooo0/AI-Gym-Coach
