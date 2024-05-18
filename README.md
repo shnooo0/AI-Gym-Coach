@@ -41,7 +41,7 @@ The combination of CNN and PoseNet allows for accurate detection of poses and cl
    pip install -r requirement.txt
   ```
 
-3. To run project
+3. To run project:
 - "optionally" update code ```Pose_extract.ipynb``` with your dataset to extract Pose Features from Dataset
 - "Optionally" if you run the previous code ```Pose_extract``` you can use the extracted pose features that you get as output or in case you don't run it you can use our PoseDataset on [DriveLink](https://drive.google.com/drive/u/0/folders/1aBBl88ddYuxOkktYSYWYdPf8SDtqS0ev) to run this code ```Models_Training.ipynb```
 - download the models from [DriveLink](https://drive.google.com/drive/u/0/folders/1aBBl88ddYuxOkktYSYWYdPf8SDtqS0ev) and load it in the code ```Using_Models.ipynb``` by replace the path of the model by your model local path
