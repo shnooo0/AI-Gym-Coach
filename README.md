@@ -24,10 +24,36 @@ The combination of CNN and PoseNet allows for accurate detection of poses and cl
 - TensorFlow
 - Keras
 - PoseNet
+- open-cv
+- jupyter notebook
+
 
 ## Setup
 
 1. Clone the repository:
-Clone the repository:
+
   ```bash
-   https://github.com/shnooo0/AI-Gym-Coach
+   git clone https://github.com/shnooo0/AI-Gym-Coach 
+  ```
+2. Install dependencies:
+ ```bash
+   pip install -r requirement.txt
+  ```
+3. to run project
+- open ```final_test.ipynb```
+- take dataset from .[driveLink][https://drive.google.com/drive/u/0/folders/1aBBl88ddYuxOkktYSYWYdPf8SDtqS0ev]
+
+
+## Processes
+
+1. Data Collection: Gather training data consisting of labeled poses.
+2. Data Preprocessing: Prepare the data for training by normalizing, augmenting, and splitting.
+3. Model Training: Train the CNN model using the preprocessed data.
+4. Pose Detection: Utilize PoseNet for detecting poses in new data.
+5. Classification: Classify the detected poses using the trained CNN model.
+
+
+## Features
+
+- Pose detection using PoseNet
+- Training data classification with CNN
