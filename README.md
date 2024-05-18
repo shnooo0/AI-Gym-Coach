@@ -41,8 +41,7 @@ The combination of CNN and PoseNet allows for accurate detection of poses and cl
   ```
 3. to run project
 - open ```final_test.ipynb```
-- take dataset from .[driveLink][https://drive.google.com/drive/u/0/folders/1aBBl88ddYuxOkktYSYWYdPf8SDtqS0ev]
-
+- take dataset from [DriveLink](https://drive.google.com/drive/u/0/folders/1aBBl88ddYuxOkktYSYWYdPf8SDtqS0ev)
 
 ## Processes
 
