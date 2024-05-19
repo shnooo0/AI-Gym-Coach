@@ -15,8 +15,10 @@ This project utilizes Convolutional Neural Networks (CNN) in conjunction with Po
 The combination of CNN and PoseNet allows for accurate detection of poses and classification of training data.
 
 ## Demo
-
-[Include a link to a demo video or a live demonstration if available]
+- correctTrain
+![CorrectTrain](https://github.com/shnooo0/AI-Gym-Coach/blob/main/Images/correct_Train.png)
+- IncorrectTrain
+![IncorrectTrain](https://github.com/shnooo0/AI-Gym-Coach/blob/main/Images/Incorrect_Train.png)
 
 ## Technologies and Tools
 
